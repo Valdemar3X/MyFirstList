@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyFirstList</string>
+    <string name="list_will_be_here">List will be here!</string>
+
+</resources>
